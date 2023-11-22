@@ -1,0 +1,1 @@
+Exercicios do microfundamento de  Algoritmos de Ordenação e Pesquisa do 4 período do curso de Sistemas de Informação da PUC Minas Virtual
